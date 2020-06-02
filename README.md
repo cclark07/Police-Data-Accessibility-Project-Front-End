@@ -1,4 +1,5 @@
 <img align="right" width="100" height="100" src="./public/logo512.png?raw=true">
+
 # Police Data Accessibility Project - Front End
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/), [Redux Toolkit](https://redux-toolkit.js.org/), and [TypeScript](https://www.typescriptlang.org/) template.
