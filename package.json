@@ -1,5 +1,6 @@
 {
   "name": "pdap-fe",
+  "description": "Front end react/redux/typescript app for the Police Data Accessibility Project",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
